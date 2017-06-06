@@ -8,4 +8,4 @@ In data.py we are creating the dataset for entitys account name and email. Pleas
 
 In Entity Recognizer.py we are creating the model.
 
-Run Entity Recognizer.py to create a model and do predictions. If you want to create your own model for user usecase then update data.py file in same from format with your dataset.
+Run Entity Recognizer.py to create a model and do predictions. If you want to create your own model for your own usecase then update data.py file in same from format with your dataset.
