@@ -1,0 +1,2 @@
+Anaconda for Python version 2.7
+spacy -> https://spacy.io/
