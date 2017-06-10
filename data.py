@@ -66,8 +66,8 @@ def getData():
                 [(len('get my email updated for account '), len('get my email updated for account coke'), 'ACC'),(len('get my email updated for account for coke to '), len('get my email updated for account coke to ab@gmail.com'), 'EMAIL')]         
             ),
             (
-                'update email of account acme to ab@gmail.com',
-                [(len('update email of account '), len('update email of account acme'), 'ACC'),(len('update email of account acme to '), len('update email of account acme to ab@gmail.com'), 'EMAIL')]
+                'update email of account abc to ab@gmail.com',
+                [(len('update email of account '), len('update email of account abc'), 'ACC'),(len('update email of account acme to '), len('update email of account acme to ab@gmail.com'), 'EMAIL')]
             ),
             (
                 'need to update my email id shubam@outlook.com for pepsico',
