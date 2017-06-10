@@ -53,7 +53,7 @@ def main(model_dir=None):
     train_data =getData()
     ner = train_ner(nlp, train_data, ['ACC','EMAIL'])
 
-    doc = nlp.make_doc('update email of account pepsico to ab@gmail.com')
+    doc = nlp.make_doc('update email of account peps to ab@gmail.com')
     #nlp.tagger(doc)
     ner(doc)
     for word in doc:
