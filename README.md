@@ -1,6 +1,6 @@
 # Entity-Recognition-using-Spacy
 Create a customized model to identity the user defined entitys from the text
-This Spacy model is created for the user input where user wants to update his email id to some new email for a specific account name and we have to retrieve that account name and email from the text.
+This Spacy model is created for the user input where we have to retrieve account name and email from the text.
 
 There are 2 files -
 
